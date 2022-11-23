@@ -1,0 +1,6 @@
+/push.exe
+/node_modules/*
+/packages/*
+chrome
+/SocksTun/bin/*
+/SocksTun/obj/*

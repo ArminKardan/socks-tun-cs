@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocksTun", "SocksTun.csproj", "{595643D2-A449-4BAC-B9D8-56E453EB11A2}"
 EndProject
 Global
@@ -19,5 +21,6 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		VisualSVNWorkingCopyRoot = 
+		SolutionGuid = {0F06E20E-11CA-410C-960B-0181A3912636}
 	EndGlobalSection
 EndGlobal
